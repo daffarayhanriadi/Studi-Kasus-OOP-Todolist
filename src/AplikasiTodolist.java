@@ -1,5 +1,3 @@
-package daffa.belajarjavabasic.studycasetodolist;
-
 public class AplikasiTodolist {
 
     public static String[] data = new String[10];
